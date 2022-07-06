@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mastering the website?!"
-date:   2022-07-06 16:36:06 +0800
+date:   2022-07-06 18:00:06 +0800
 categories: website_update
 ---
 As you can see, I've successfully created a 'category' page (basically copy-pasting from others' work though).
