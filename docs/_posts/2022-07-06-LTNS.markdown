@@ -2,6 +2,6 @@
 layout: post
 title:  "A brand new site looks awkward"
 date:   2022-07-06 16:36:06 +0800
-categories: website update
+categories: website_update
 ---
 Finally I make it, though it embodies a total simplism. Well, it's fine as long as it is useful... What's the pupose of this website anyway?
