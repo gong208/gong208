@@ -8,17 +8,13 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
 <details>
   <summary>Click to expand!</summary>
   
- ---
+  Codes for a collapsible section 
+  ```
   
-  `# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
+  <details>
+    <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>`
-  ---
+  
+  </details>
+  ```
 </details>
