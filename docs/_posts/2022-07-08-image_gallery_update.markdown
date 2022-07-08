@@ -10,7 +10,7 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   
  ---
   
-  # A collapsible section with markdown
+  `# A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
   
@@ -19,6 +19,6 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   2. list
      * With some
      * Sub bullets
-</details>
- ---
+</details>`
+  ---
 </details>
