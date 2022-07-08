@@ -8,7 +8,8 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
 <details>
   <summary>Click to expand!</summary>
   
-  ---
+ ---
+  
   # A collapsible section with markdown
 <details>
   <summary>Click to expand!</summary>
@@ -19,5 +20,5 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
      * With some
      * Sub bullets
 </details>
-  ---
+ ---
 </details>
