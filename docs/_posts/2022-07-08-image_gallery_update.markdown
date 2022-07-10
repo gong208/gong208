@@ -9,6 +9,7 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   <summary>Click to expand!</summary>
   
   Codes for a collapsible section 
+  
   ```
   
   <details>
@@ -16,5 +17,7 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   
   
   </details>
+  
   ```
+  
 </details>
