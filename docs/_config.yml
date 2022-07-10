@@ -23,7 +23,7 @@ twitter_username: gongjiangshan1
 github_username:  gong208
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
