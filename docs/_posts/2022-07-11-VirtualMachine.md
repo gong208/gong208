@@ -18,8 +18,8 @@ Yesterday, I created a virtual machine for ubuntu system using VirtualBox.
    _ For my virtual machine, one adapter is used for NAT, the other one is used to connect to the host through ssh
    ![image](https://user-images.githubusercontent.com/60023638/178288696-2ebb5253-85d5-41f3-933a-73754464c2d0.png)
 7. remotely connect to the virtual machine through ssh:
-   _ On host system, search for folder _.ssh_. There should be a public key _id_rsa.pub_.
-   _ Then open it either using 
+   On host system, search for folder _.ssh_ . There should be a public key _id_rsa.pub_ .
+   Then open it either using 
    ```
    cat id_rsa.pub
    ```
@@ -27,7 +27,7 @@ Yesterday, I created a virtual machine for ubuntu system using VirtualBox.
    ```
    vim id_rsa.pub
    ```
-   _ Switch to the virtual machine, again, find _.ssh_ folder and open it with
+   Switch to the virtual machine, again, find _.ssh_ folder and open it with
    ```
    vim authorized_keys
    ```
