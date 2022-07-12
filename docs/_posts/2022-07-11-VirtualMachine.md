@@ -12,7 +12,7 @@ Yesterday, I created a virtual machine for ubuntu system using VirtualBox.
 3. Mount the iso file on VirtualBox:
 ![VirtualBox](https://user-images.githubusercontent.com/60023638/178228343-78ea470c-37b3-4726-ab43-eda03661dfde.png)
 4. Format the disk space.
-5. Complete the regualr settings.
+5. Complete the regular settings.
 6. Set network adapters:
    _ there can be multiple adapters
    _ For my virtual machine, one adapter is used for NAT, the other one is used to connect to the host through ssh
