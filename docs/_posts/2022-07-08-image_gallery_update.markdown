@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "iamge gallery constructed"
+title:  "image gallery constructed"
 date:   2022-07-08 23:00:00 +0800
 categories: website_update
 ---
