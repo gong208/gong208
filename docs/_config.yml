@@ -41,4 +41,4 @@ plugins:
 #   - vendor/ruby/
 permalink: /:categories/:title/
 imagesurl: "/docs/img/"
-thumbsurl: "/mysite/thumbs/"
+thumbsurl: "/docs/thumbs/"
