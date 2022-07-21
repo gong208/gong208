@@ -6,7 +6,6 @@ categories: cs_learning
 ---
 While creating a table in a database, a row marked as __"AUTO_INCREMENT"__ is necessary for multiple inserting:
 ```
-
 CREATE TABLE university (
   id int(8) NOT NULL AUTO_INCREMENT,
   #without AUTO_INCREMENT, there will be an error while inserting multiple rows
@@ -18,7 +17,6 @@ CREATE TABLE university (
 ```
 Then, create an array of the tuples you want to insert:
 ```
-
 data = [("abc",'四川大学','口腔医学'),
         ("def",'北京师范大学','教育学类'),
         ("ghi",'北京工业大学','数学类'),
@@ -28,7 +26,6 @@ data = [("abc",'四川大学','口腔医学'),
 ```
 And use executemany command to insert:
 ```
-
 try:
     # 执行sql语句，插入多条数据
     cursor.executemany("insert into university(name, university, major) values (%s, %s, %s)" , data)
