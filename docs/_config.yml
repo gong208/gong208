@@ -25,8 +25,8 @@ github_username:  gong208
 # Build settings
 markdown: GFM
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,5 +40,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /:categories/:title/
-imagesurl: "/https://gong208.github.io/img/"
-thumbsurl: "/https://gong208.github.io/thumbs/"
+
