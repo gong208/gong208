@@ -40,5 +40,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /:categories/:title/
-imagesurl: "/docs/img/"
-thumbsurl: "/docs/thumbs/"
+imagesurl: "/img/"
+thumbsurl: "/thumbs/"
