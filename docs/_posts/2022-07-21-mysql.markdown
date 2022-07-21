@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Inserting multiple rows using executemany command in mysql"
+date:   2022-07-21 12:30:05 +0800
+categories: cs_learning
+---
+While creating a table in a database, a row marked as __"AUTO_INCREMENT"__ is necessary for multiple inserting:
+```
+
+CREATE TABLE university (
+  id int(8) NOT NULL AUTO_INCREMENT,
+  #without AUTO_INCREMENT, there will be an error while inserting multiple rows
+  name varchar(50) NOT NULL,
+  university varchar(50) NOT NULL,
+  major varchar(50) NOT NULL,
+  PRIMARY KEY (id)
+) ENGINE=MyISAM AUTO_INCREMENT=1 DEFAULT CHARSET=utf8;
+```
+Then, create an array of the tuples you want to insert:
+```
+
+data = [("abc",'四川大学','口腔医学'),
+        ("def",'北京师范大学','教育学类'),
+        ("ghi",'北京工业大学','数学类'),
+        ("jkl",'北京邮电大学','电子信息'),
+        ("mno",'北京理工大学','未来精工技术'),
+        ]
+```
+And use executemany command to insert:
+```
+
+ry:
+    # 执行sql语句，插入多条数据
+    cursor.executemany("insert into university(name, university, major) values (%s, %s, %s)" , data)
+    # 提交数据
+    db.commit()
+except:
+    # 发生错误时回滚
+    db.rollback()
+    print('error')
+```
+*lines about connecting to database and ceating cursor instance is ignored*
