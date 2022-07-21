@@ -10,14 +10,5 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   
   Codes for a collapsible section 
   
-  ```
-  
-  <details>
-    <summary>Click to expand!</summary>
-  
-  
-  </details>
-  
-  ```
   
 </details>
