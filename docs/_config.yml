@@ -40,5 +40,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 permalink: /:categories/:title/
-imagesurl: "/img/"
-thumbsurl: "/thumbs/"
+imagesurl: "/https://gong208.github.io/img/"
+thumbsurl: "/https://gong208.github.io/thumbs/"
