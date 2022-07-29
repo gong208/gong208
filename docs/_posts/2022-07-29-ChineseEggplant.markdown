@@ -31,5 +31,7 @@ In this way the dish won't look that messy.
 4. Fry the eggplants until they turn burnt yellow (I haven't succeeded frying eggplants into this color, maybe I should add more oil?).
 5. Add the sauce into the pan, and stew it for some time over high heat to thicken the sauce.
 6. FINISHED
+
 ![屏幕截图 2022-07-29 202452](https://user-images.githubusercontent.com/60023638/181757866-87036e1a-f097-4ce0-b724-e3008a9b6ad0.jpg)
+
 さ、やてみろ！
