@@ -4,6 +4,6 @@
 
 layout: home
 ---
-<div id="MyClockDisplay" class="clock" onload="showTime()"></div>
+{% include digital_clock.html %}
 
 
