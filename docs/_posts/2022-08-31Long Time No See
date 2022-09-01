@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Long Time No See and some bash codes tips"
+date:   2022-08-31 21:50:00 -0500
+categories: my_dishes
+--- 
+Hey there, it has been a month since I updated my posts. In the past month I struggled with all those troublesome stuffs emerging at the beginning of the campus life in UIUC.
+~~Actually I am still struggling with them now~~
+So much for the complaints, I've enrolled in the cs124 honor course besides the cs124. These two classes are in fact not correlated at all. The cs124honor is mainly held by a group of senior students.
+And no credit hour is got from this course. What I can get is, basically, well, honor? 
+All in all, they are training us with bash and git for future projects.
+I learned bash this week and luckily found that it was just like how the terminal in Linus OS worked.
+Here are some notes:
+1. ''' touch file.ext ''' is used for creating a file. The type of the file depends on the estension you give.
+2. ''' echo "string" ''' and ''' echo "string" > file.ext ''' The first command prints the content in the string in a new line, and the second one prints the string into the fil. Using the ">" redirect sign, you can write the string directly into the file through terminal, but ">" will delete the original content and ">>" won't 
+3. ''' cat file.ext ''' print the content in the file to the terminal
+I think these are things to be noticed during my bash learning. So much for that.
