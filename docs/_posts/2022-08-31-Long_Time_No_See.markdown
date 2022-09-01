@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Long Time No See and some bash codes tips"
-date:   2022-09-1 11:39:00 0800
+date:   2022-09-1 11:00:00 0800
 categories: cs_learning life
 --- 
 Hey there, it has been a month since I updated my posts. In the past month I struggled with all those troublesome stuffs emerging at the beginning of the campus life in UIUC.
