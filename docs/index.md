@@ -5,6 +5,8 @@
 layout: home
 ---
 <html>
-    <title>TITLEEE</title>
-    
+    <title>
+        TITLEEE
+    </title>
+
 </html>
