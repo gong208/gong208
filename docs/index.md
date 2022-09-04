@@ -5,6 +5,7 @@
 layout: home
 ---
 <html>
+    <title>TITLEEE</title>
     <head>
         <meta charset = "utf-8">
         <title> Digital Clock Using JavaScript </title>
