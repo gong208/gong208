@@ -4,6 +4,5 @@
 
 layout: home
 ---
-{% include digital_clock.html %}
-
+<h1>TITLEEEE</h1>
 
