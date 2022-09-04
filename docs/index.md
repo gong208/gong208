@@ -5,8 +5,8 @@
 layout: home
 ---
 <html>
-    <title>
+    <h1>
         TITLEEE
-    </title>
+    </h1>
 
 </html>
