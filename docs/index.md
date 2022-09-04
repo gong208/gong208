@@ -4,5 +4,7 @@
 
 layout: home
 ---
-<h1>TITLEEEE</h1>
+<html>
+  <h1>TITLEEEE</h1>
+</html>
 
