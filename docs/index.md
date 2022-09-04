@@ -8,7 +8,7 @@ layout: home
     <head>
         <meta charset = "utf-8">
         <title> Digital Clock Using JavaScript </title>
-        <link rel = "stylesheet" href = "styles.css">
+        <link rel = "stylesheet" href = "/_includes/styles.css">
     </head>
     <body>
         <div id = "digital-clock"> </div>
