@@ -11,7 +11,7 @@ And no credit hour is got from this course. What I can get is, basically, well, 
 All in all, they are training us with bash and git for future projects.
 I learned bash this week and luckily found that it was just like how the terminal in Linus OS worked.
 Here are some notes:
-1. `touch file.ext` is used for creating a file. The type of the file depends on the estension you give.
+1. `touch file.ext` is used to create a file. The type of the file depends on the estension you give.
 2. `echo "string"` and `echo "string" > file.ext` The first command prints the content in the string in a new line, and the second one prints the string into the fil. Using the ">" redirect sign, you can write the string directly into the file through terminal, but ">" will delete the original content and ">>" won't 
-3. `cat file.ext` print the content in the file to the terminal
+3. `cat file.ext` prints the content in the file to the terminal
 I think these are things to be noticed during my bash learning. So much for that.
