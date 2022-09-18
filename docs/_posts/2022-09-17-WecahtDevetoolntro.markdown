@@ -12,7 +12,7 @@ Wechat Miniapplication is literally an application based on Wehcat. Different fr
 <details><summary>pages</summary>
   It is recommended to create all the codes for each page of the application in this folder.
   
-  <details><summary>/t log</summary>
+  <details><summary>&nbsp log</summary>
     
     
     This is an example folder for a log page in the application. In a page folder, there will usually be four files:
