@@ -46,7 +46,14 @@ Wechat Miniapplication is literally an application based on Wehcat. Different fr
   A page can be displayed only after you add the link of the page into this file. app.json is responsible for the global setup. For example, you can set the primary background color or add the tab bars. 
 </details>
  
- <details><summary>app.wxss</summary>
+<details><summary>app.wxss</summary>
   app.wxss works the same as the .wxss files of the pages, but it influences globally. The page wxss arrangement is prior to the global arrangement.
 </details>
  
+ 
+<details><summary>project.config.json</summary>
+  This file contains the settings of a miniapplication project.
+</details>
+
+
+
