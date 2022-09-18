@@ -9,12 +9,14 @@ Agian, I moved a step forward to mastering markdown by using skilfful copy-pasti
   
   <details><summary>log folder</summary>
     
-    <details><summary>CLICK ME</summary>
-      log.js
-      log.json
-      log.wxml
-      log.wxss
-    </details>
+    
+    
+    log.js
+    log.json
+    log.wxml
+    log.wxss
+    
+    
     
   </details>
    
