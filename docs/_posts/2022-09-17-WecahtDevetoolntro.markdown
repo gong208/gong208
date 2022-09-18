@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Long Time No See and some bash codes tips"
+title:  "Wechat Devtool 1"
 date:   2022-09-16 12:00:00 0800
 ---
 0. #Wechat Miniapplication: 
@@ -12,13 +12,20 @@ Wechat Miniapplication is literally an application based on Wehcat. Different fr
 <details><summary>pages</summary>
   It is recommended to create all the codes for each page of the application in this folder.
   
-  
   <details><summary>  log</summary>
+    
+    
     This is an example folder for a log page in the application. In a page folder, there will usually be four files:
+    
     log.js: .js file is responsible for the logical components of the page. Using javascript, developers can bind events to a button, pass parameters, etc.
+    
     log.json: I haven't worked much about the .json files so far. As far as I know, it is resonsible for the page's "setup": page title, text style, background color...
-    log.wxml: .wxml is derived from html. It sues a language syntax similar to html to create elements like <view></view>, <button></button> on the page.
+    
+    log.wxml: .wxml is derived from html. It sues a language syntax similar to html to create elements like ```<view></view>```, ```<button></button>``` on the page.
+    
     log.wxss: wxss is derived from css. It works similarly. I use it to arrange the elements shown on the page, like position and flex display.
+    
+    
   </details>
 
 
