@@ -3,11 +3,11 @@ layout: post
 title:  "Wechat Devtool 1"
 date:   2022-09-16 12:00:00 0800
 ---
-0. #Wechat Miniapplication: 
+0. # Wechat Miniapplication: 
 
 Wechat Miniapplication is literally an application based on Wehcat. Different from ordinary applications, it is said that these miniapplications can be used without downloading & installing. In fact, it is because they have a very small size (less than 2M) so that the users won't be aware of the process of downloading.
-1. #[Wechat developer tool] (https://developers.weixin.qq.com/miniprogram/en/dev/devtools/devtools.html): a specially designed IDE for wechat miniapplications.
-2. #The regular code structure of a miniapplication: 
+1. # [Wechat developer tool](https://developers.weixin.qq.com/miniprogram/en/dev/devtools/devtools.html): a specially designed IDE for wechat miniapplications.
+2. #T he regular code structure of a miniapplication: 
 
 <details><summary>pages</summary>
   It is recommended to create all the codes for each page of the application in this folder.
@@ -21,7 +21,7 @@ Wechat Miniapplication is literally an application based on Wehcat. Different fr
     
     log.json: I haven't worked much about the .json files so far. As far as I know, it is resonsible for the page's "setup": page title, text style, background color...
     
-    log.wxml: .wxml is derived from html. It sues a language syntax similar to html to create elements like ```<view></view>```, ```<button></button>``` on the page.
+    log.wxml: .wxml is derived from html. It sues a language syntax similar to html to create elements like `<view></view>`, `<button></button>` on the page.
     
     log.wxss: wxss is derived from css. It works similarly. I use it to arrange the elements shown on the page, like position and flex display.
     
